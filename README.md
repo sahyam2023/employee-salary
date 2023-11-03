@@ -7,8 +7,9 @@ This project aims to predict employee salaries based on key features such as yea
 ## Project Structure
 
 ```
-|-- salary_data.csv
+|-- salary_dataset.csv
 |-- salaryprediction.ipynb
+|-- requirements.txt
 |-- README.md
 ```
 
@@ -16,6 +17,7 @@ This project aims to predict employee salaries based on key features such as yea
 
 - **dataset.csv**: The dataset used for training and testing the models.
 - **salaryprediction.ipynb**: Jupyter Notebook containing the code for data preprocessing, model training, and analysis.
+- **requirements.txt**: List of required Python libraries.
 
 ## Prerequisites
 
@@ -23,7 +25,7 @@ Ensure you have the following prerequisites installed:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn)
+- Required Python libraries (install using `pip install -r requirements.txt`)
 
 ## Installation
 
