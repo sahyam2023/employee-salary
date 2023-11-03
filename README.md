@@ -7,7 +7,7 @@ This project aims to predict employee salaries based on key features such as yea
 ## Project Structure
 
 ```
-|-- dataset.csv
+|-- salary_data.csv
 |-- salaryprediction.ipynb
 |-- README.md
 ```
