@@ -65,6 +65,9 @@ The accuracy of the regression models was assessed using mean squared error. Add
 - Scatter plots were employed to visualize actual vs. predicted salaries.
 - Confusion matrices were used for classification evaluation.
 
+## Code View
+You can directly view the code by going [here](https://nbviewer.org/github/sahyam2023/employee-salary/blob/main/Salary-Prediction.ipynb)
+
 ## Conclusion
 
 The project provides valuable insights into employee salary prediction, clustering, and classification. The chosen regression model, Random Forest, demonstrated promising results. Further analyses and model fine-tuning can enhance the accuracy and applicability of the predictions.
